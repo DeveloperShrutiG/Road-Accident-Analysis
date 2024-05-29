@@ -3,7 +3,31 @@
 🚗📊 I'm excited to share my latest project: **An Excel Dashboard analyzing UK road accident data!** 📈
 
 In this project, I've delved deep into the numbers to uncover insights about accident trends, locations, and contributing factors. This analysis aims to provide a clearer understanding of road safety issues and help in formulating strategies to mitigate accidents.
+### Requirement: Client wants to create a Road Accident Dashboard for year 2021 & 2022 so that they ca have insights on the given requirement
 
+* Primary KPI's:
+  - Total casualities taken place after the accident
+  - Total casualities & Percentage of total with respect to accident severity and maximum casualities by type of vehicle 
+
+* Secondary KPI's:
+  -Total casualities with respect to vehicle type
+  - Monthly trend showing comparison of casuality for current year and previous year
+  - Maximum casuality by road type
+  -  Distribution of total casualities by road surface
+  -  Relation between  Casualities by Area/location & by day/night.
+
+* Stakeholders Involved:
+  - Ministry Of Transport
+  - Road Transport Department
+  - Police Force
+  - Emergency Service Department
+  - Road Safety Corps
+  - Transport Operators
+  - Traffic Management Agencies
+  - Public
+  - Media
+    
+    
 ### Tool Used:
 - **Microsoft Excel**
 
