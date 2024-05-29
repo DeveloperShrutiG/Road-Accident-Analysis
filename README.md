@@ -11,6 +11,7 @@ In this project, I've delved deep into the numbers to uncover insights about acc
   - Total casualities & Percentage of total with respect to accident severity and maximum casualities by type of vehicle 
 
 * Secondary KPI's:
+  
   -Total casualities with respect to vehicle type
   - Monthly trend showing comparison of casuality for current year and previous year
   - Maximum casuality by road type
